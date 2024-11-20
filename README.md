@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Saùde Mental no trabalho
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Trata-se de um e-book com o tema : Saùde Mental no trabalho.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT; Leonardo IA; Canvas.com
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O texto tema foi criado utilizando a IA atravès do ChatGPT. Posteriormente utilizei o Leonardo IA para criar as imagens e por fim utilizei o canvas .com para combinar as imagens com o texto
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi a criaçâo do E-book
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi um grande desafio,pois nunca utilizei a IA Generativa, conhecia apenas o conceito e com as instruçoes recebidas pude aprender a criar textos e imagens.
 ```
 
 ### Exemplos e Insigths
